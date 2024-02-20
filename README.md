@@ -5,12 +5,12 @@ This repository contains code for training a Convolutional Neural Network (CNN) 
 
 ## Installation
 - Install the required packages using the following commands:
-pip install numpy
-pip install opencv-python
-pip install keras
-pip3 install --upgrade tensorflow
-pip install pillow
-pip install kaggle
+-pip install numpy
+-pip install opencv-python
+-pip install keras
+-pip3 install --upgrade tensorflow
+-pip install pillow
+-pip install kaggle
 
 ## Usage
 ### Train Emotion Detector
